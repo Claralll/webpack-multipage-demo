@@ -1,0 +1,6 @@
+<div class="container">
+	<h1>This is page 2.</h1>
+	<div class="img">
+		<img src="../static/img/page-2/img.jpg" alt="">
+	</div>
+</div>

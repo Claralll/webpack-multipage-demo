@@ -1,0 +1,7 @@
+.container {background-color: #fff;}
+.container h1 {color: #333; text-align: center;}
+.container .list {padding: 10px 15px; font-size: 14px;}
+.container .ctrl {padding: 10px 15px;}
+.container .btn {display: block; height: 44px; line-height: 44px; background-color: #eeab91; border-radius: 5px; color: #fff; font-size: 0; text-align: center;}
+.container .btn .txt {display: inline-block; vertical-align: middle; font-size: 18px;}
+.container .btn .ico_arrow {display: inline-block; vertical-align: middle; width: 8px; height: 12px; margin-left: 5px; background: url(../../img/page-1/ico_arrow.png) no-repeat; background-size: 100% auto;}
